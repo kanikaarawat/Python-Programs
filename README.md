@@ -1,2 +1,2 @@
 # Python-Programs
-These are the python programs, I did in my second semester.
+I did all these programs in my Second Semester of Btech.
