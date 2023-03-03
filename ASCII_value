@@ -1,0 +1,3 @@
+"""Program to print ASCII Value of a character"""
+letter=input("Enter the letter:")
+print("The ASCII value of the entered character is:",ord(letter))
